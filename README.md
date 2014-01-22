@@ -9,7 +9,7 @@ Please do not remove the credits.
 
 How to Install
 ==================
-1 - Download all the files and upload them to your server;
-2 - Import the database;
-3 - Go to /install.php and create a admin account. (Delete this file after);
-4 - Go to /admin and start adding content!
+- Download all the files and upload them to your server;
+- Import the database;
+- Go to /install.php and create a admin account. (Delete this file after);
+- Go to /admin and start adding content!
