@@ -1,0 +1,4 @@
+//TO DO
+- index - pagination.
+- install - define title and description. (move those to db?).
+Create RSS

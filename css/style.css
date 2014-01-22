@@ -1,0 +1,31 @@
+body {
+	padding-top: 50px;
+	font-family: Arial;
+	line-height: 25px;
+}
+
+.container {
+	width: 650px;
+	margin: 0 auto;
+}
+
+a:link, a:visited {
+	color: slateGray;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #444
+}
+small {
+	color:#999;
+	font-style: italic;
+}
+
+p {
+	line-height: 25px;
+}
+
+header {
+	
+}
