@@ -4,7 +4,7 @@ require 'config.php';
 //Database Class
 require 'classes/database.php';
 
-$status = "Admin account sucessfully created! Please delete install.php now!";
+$status = "Admin account sucessfully created! Please delete install.php now! Start adding content by going to www.yoursite.com/admin";
 
 if(isset($_POST["username"], $_POST["password"])){
 			$username = $_POST["username"];
